@@ -14,9 +14,6 @@ I will add my learning plans, my field notes as well as code etc that I write on
 
 ## Testing to see if links show up in the project website
 [My first (Developer) Diary Entry](docs_ml_skillup/developer diary/2025-07-24 - Day 0 - Machine and Env Setup.md)
-[My first (Developer) Diary Entry](./docs_ml_skillup/developer diary/2025-07-24 - Day 0 - Machine and Env Setup.md)
-[My first (Developer) Diary Entry](./docs_ml_skillup/developer diary/2025-07-24 - Day 0 - Machine and Env Setup.html)
-[My first (Developer) Diary Entry](docs_ml_skillup/developer diary/2025-07-24 - Day 0 - Machine and Env Setup.html)
 
 
 
