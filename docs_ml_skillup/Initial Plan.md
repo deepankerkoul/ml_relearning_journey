@@ -1,0 +1,107 @@
+This is a list that I got in a [LinkedIn post](https://www.linkedin.com/in/chandrasekarsrinivasan/) and I think it makes a good starting point. I'll expand it as and when needed with my initiatives and activities.
+
+
+## Tools and Skills Overview
+
+- ML Engineer
+	- Skills
+		- Data Cleaning & Feature Engineering
+		- Model Selection (Regression, Classification, Trees)
+		- Deep Learning Frameworks
+		- Model Training & Cross-Validation
+		- Hyperparameter Optimization
+		- Experiment Tracking
+		- MLOps (Deployment & Monitoring)
+		- Cloud Model Deployment
+		- Model Explainability
+	- Tools
+		- Scikit-learn
+		- TensorFlow
+		- PyTorch
+		- MLflow
+		- Kubeflow
+		- Vertex AI / SageMaker
+- LLMs (Large Language Models)
+	- Skills
+		- Prompt Engineering
+		- Parameter Efficient Fine-tuning (LoRA, QLoRA, PEFT)
+		- Quantization (GPTQ, AWQ)
+		- Function Calling / Tool Use
+		- Retrieval Augmented Generation
+		- Knowledge of Attention Mechanism
+		- Knowledge of Model Architectures
+		- OpenAI (GPT-3, GPT-4o)
+		- Model Evaluation
+	- Tools
+		- Cohere
+		- Anthropic
+		- Ollama
+		- Hugging Face Transformers
+		- OpenRouter
+- RAG (Retrieval-Augmented Generation)
+	- Skills
+		- Chunking Strategies
+		- Embedding & Indexing
+		- Vector DB Querying
+		- Re-ranking and Co-ranking
+		- Dynamic Context Injection
+		- Document Loaders (PDFs, web, APIs)
+		- Prompt Template Construction
+		- Evaluation & Optimization
+	- Tools
+		- FAISS
+		- Pinecone
+		- Weaviate
+		- ChromaDB
+		- LangChain
+		- LlamaIndex
+		- Milvus
+		- Vectara
+- Agentic AI
+	- Skills
+		- Goal-Oriented Agent Design
+		- Planning and Self-Correction
+		- Task Decomposition & Scheduling
+		- Memory & State
+		- Dynamic Tool Selection & Use
+		- Multi-modality
+		- Multi-Agent Reasoning
+		- Human-in-the-Loop
+	- Tools
+		- CrewAI
+		- AutoGen
+		- LangGraph
+		- SuperAGI Agents
+		- AgentOps
+		- Marvin
+		- CAMEL
+		- DSPy
+- AI Agents
+	- Skills
+		- Agent Role Assignment (Planner, Executor, Researcher)
+		- Tool Use & Management
+		- Event-Based Programming
+		- Human-AI Collaboration & Tracking
+		- Monitoring & Retry Logic
+		- Memory & Persistence
+		- Failover Planning • Multi-Agent Orchestration • R&D Framework
+	- Tools • LangChain • ABn • Autogent • Microsoft • AutoGPT Studio • GPT-4o + Function Calling • MetaGPT
+- AI Engineer
+	- Skills
+		- AI Workflow Design
+		- Code Management & Version Control
+		- Serverless LLM Integration
+		- LLM API Usage & Management
+		- Cost/Latency Optimization
+		- Prompt Engineering
+		- Embedding & RAG Strategy
+		- MLOps for AI Implementation
+	- Tools
+		- Docker
+		- FastAPI
+		- Hugging Face Hub
+		- AWS
+		- OpenAI API
+		- LangChain
+		- LlamaIndex
+		- GitHub Copilot
