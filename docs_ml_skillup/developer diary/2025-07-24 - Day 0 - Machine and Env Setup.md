@@ -1,4 +1,4 @@
-Welcome to Day 0 of the rest of this journey. After setting up this repo, I made a quick list of the courses that I had signed up on Coursera and LinkedIn Learning. There are other sources as well, but this is to make a start. I'll soon start mapping courses to the skills present in [[Initial Plan]].
+Welcome to Day 0 of the rest of this journey. After setting up this repo, I made a quick list of the courses that I had signed up on Coursera and LinkedIn Learning. There are other sources as well, but this is to make a start. I'll soon start mapping courses to the skills present in [Initial Plan](Initial%20Plan.md).
 
 # System Setup
 - I'm starting this project with my trusty Macbook Air laptop which had replaced my Windows laptop 2-3 years ago as my go to laptop but I had been shying away from switching to Mac for development completely.
