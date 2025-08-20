@@ -11,3 +11,6 @@ So this repo is my attempt at re-learning everything ML. I want to:
 - **skillup on the new advances in ML** that I haven't yet gotten around to learning.
 
 I will add my learning plans, my field notes as well as code etc that I write on my way here. I don't have everything sorted out, but I'm excited AF!
+
+## Developer Diary/Field Notes
+[Developer Diary](docs_ml_skillup/developer%20diary/Developer%20Diary%20Entries.md)

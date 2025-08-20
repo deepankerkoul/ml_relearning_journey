@@ -1,7 +1,5 @@
 This is a list that I got in a [LinkedIn post](https://www.linkedin.com/in/chandrasekarsrinivasan/) and I think it makes a good starting point. I'll expand it as and when needed with my initiatives and activities.
 
-## Developer Diary
-[[Developer Diary Entries]]
 
 
 ## Tools and Skills Overview
