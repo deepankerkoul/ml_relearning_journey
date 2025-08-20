@@ -72,8 +72,8 @@ brew install minikube
 ```
 
 - To start/stop minikube:
+
 ```zsh
 minikube start
-
 minikube stop
 ```
